@@ -73,7 +73,7 @@ export default function OrderModal({ order }) {
         >
           <Typography variant="subtitle1">Name </Typography>
           <Typography variant="subtitle1" color={"grey"}>
-            ADMI ZAKARYAE
+            ART BUENAVENTURA
           </Typography>
         </Paper>
         <Paper
@@ -101,7 +101,7 @@ export default function OrderModal({ order }) {
         >
           <Typography variant="subtitle1">Mobile </Typography>
           <Typography variant="subtitle1" color={"grey"}>
-            +212 6 51 88 61 51
+            +639451865933
           </Typography>
         </Paper>
         <Box>

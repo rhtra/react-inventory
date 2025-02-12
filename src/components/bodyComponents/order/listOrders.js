@@ -1,10 +1,10 @@
 import productList from "../inventory/productList";
 
 const customer = {
-    firstName: "ADMI",
-    lastName: "ZAKARYAE",
+    firstName: "ART",
+    lastName: "BUENAVENTURA",
     position: "Software Engineer",
-    mobile: "+212 6 51 88 61 51",
+    mobile: "+639451865933",
   };
 
   const orders = [

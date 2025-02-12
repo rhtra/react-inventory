@@ -68,7 +68,7 @@ export default function NavBarComponent() {
                     textDecoration: "none",
                   }}
                 >
-                  ADIMS
+                  React Inventory
                 </Typography>
 
                 <Box
